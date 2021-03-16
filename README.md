@@ -3,7 +3,7 @@
 
 - 🎓 I'm currently studying Technology Database at Fatec-SJC.
 - 🔭 I’m looking for internship opportunities.
-- 🌱 I’m currently learning JAVA and PL/SQL.
+- 🌱 I'm currently dividing my learning between Java, SQL and seeking for a better base in HTML, CSS.
 - 📚 I love new knowledges and challenges! For me we're all eternal apprentices.✨   
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/nagellanasser)](https://github.com/nagellanasser)
@@ -14,8 +14,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nagellanasser&layout=compact&theme=radical)](https://github.com/nagellanasser/github-readme-stats) 
 
 #
-
-
 
 
 
