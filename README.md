@@ -3,7 +3,7 @@
 
 - 🎓 I'm currently studying Technology Database at Fatec-SJC.
 - 🔭 I’m looking for internship opportunities.
-- 🌱 I'm currently dividing my learning between Java, SQL and seeking for a better base in HTML, CSS.
+- 🌱 I'm currently dividing my learning between Java, SQL and seeking for a better base in HTML, CSS and JS.
 - 📚 I love new knowledges and challenges! For me we're all eternal apprentices.✨   
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/nagellanasser)](https://github.com/nagellanasser)
