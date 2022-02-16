@@ -2,7 +2,7 @@
 # <h2 align="center"> Hi there! 👋 I'm Nágella Nasser! ✌️😁</h2>  <h1 align="center">🎉 Welcome! 🙌 </h1>
 
 - 🎓 I'm currently studying Technology Database at Fatec-SJC.
-- 🚀 I’m currently an Data Engineer at Iteris Consultoria e Software.
+- 🚀 I’m currently a Data Engineer at Iteris Consultoria e Software.
 - 📚 I love new knowledges and challenges! For me we're all eternal apprentices.✨   
 
 <!-- [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/nagellanasser)](https://github.com/nagellanasser)
